@@ -46,9 +46,7 @@ We welcome contributions to enhance the game. If you have any ideas, feel free t
 ## Feedback
 If you have any questions, suggestions, or requests for new features or tutorials, please leave a comment. We will respond as soon as possible and create new content based on your feedback.
 
-Enjoy playing Tic Tac Toe and stay tuned for more exciting projects and tutorials!
-
-For any issues or further assistance, feel free to reach out. Happy coding!
+Enjoy playing Tic Tac Toe and stay tuned for more exciting projects and tutorials! Happy coding!
 
 ## GUI of game
 
